@@ -21,3 +21,7 @@ jobs:
             touch index_RVV.php
             git clone git@github.com:AskHelena/cicdexample.git
             echo 'Deployment successful to digitsal ocean1'
+            
+            
+               
+               
